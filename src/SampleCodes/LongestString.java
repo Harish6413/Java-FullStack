@@ -1,3 +1,5 @@
+package SampleCodes;
+
 public class LongestString {
     public static void main(String[] args) {
         String str="I love to code in java programming";

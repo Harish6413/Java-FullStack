@@ -1,3 +1,5 @@
+package SampleCodes;
+
 import java.util.Scanner;
 
 public class ArraySum {

@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package SampleCodes;
+
 import java.util.Scanner;
 
 public class ArrayMod {

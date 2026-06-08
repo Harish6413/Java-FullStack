@@ -1,3 +1,5 @@
+package SampleCodes;
+
 public class CheckPassword {
     public static void main(String[] args) {
         String str="aA1_67";

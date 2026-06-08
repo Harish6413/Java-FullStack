@@ -1,3 +1,5 @@
+package SampleCodes;
+
 public class StringOp {
     public static void main(String[] args) {
         String str="1C0C1C1A0B1";
