@@ -1,4 +1,4 @@
-package Oops.Encapsulation;
+package Oops;
 
 class AccessModifiers
 {
