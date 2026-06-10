@@ -138,7 +138,7 @@ public class LinkedListsExample {
 
     public static void main(String[] args) {
         LinkedListsExample obj = new LinkedListsExample();
-        obj.insertLast(5);
+        obj.insertFirst(5);
         obj.insertLast(1);
         obj.insertLast(2);
         obj.insertFirst(4);
